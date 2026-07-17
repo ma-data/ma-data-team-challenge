@@ -1,218 +1,218 @@
 player_id,player_name,team,position
-1,Mohamed Fernandes,Manchester City,GK
-2,Youri Ellison,Manchester City,GK
-3,Jarrod Trippier,Manchester City,DEF
-4,Jack Walker,Manchester City,DEF
-5,Diego Saka,Manchester City,DEF
-6,Erling Diaz,Manchester City,DEF
-7,Youri Nolan,Manchester City,DEF
-8,Harry Whitfield,Manchester City,DEF
-9,Bukayo Hartley,Manchester City,MID
-10,Diego Zinch,Manchester City,MID
-11,Jack Fernandes,Manchester City,MID
-12,Emile Ramsey,Manchester City,MID
-13,Alexis Preston,Manchester City,MID
-14,Reece Mount,Manchester City,MID
-15,Aaron Jones,Manchester City,FWD
-16,Mohamed Silva,Manchester City,FWD
-17,Mason Hartley,Manchester City,FWD
-18,Ivan Langford,Manchester City,FWD
-19,Riyad Zinch,Liverpool,GK
-20,Raheem Sancho,Liverpool,GK
-21,Andre Carrick,Liverpool,DEF
-22,Bruno Vance,Liverpool,DEF
-23,Declan Sterling,Liverpool,DEF
-24,Bernardo Preston,Liverpool,DEF
-25,Rodri Rowntree,Liverpool,DEF
-26,Kai Jones,Liverpool,DEF
-27,Yves Vance,Liverpool,MID
-28,Mohamed Diaz,Liverpool,MID
-29,Trent Diaz,Liverpool,MID
-30,Raheem Isak,Liverpool,MID
-31,Jarrod Fernandes,Liverpool,MID
-32,Bruno Baxter,Liverpool,MID
-33,Emile Sterling,Liverpool,FWD
-34,Pierre Baxter,Liverpool,FWD
-35,Trent Mahrez,Liverpool,FWD
-36,Phil Silva,Liverpool,FWD
-37,Trent Jones,Arsenal,GK
-38,Leo Foden,Arsenal,GK
-39,Bukayo Toney,Arsenal,DEF
-40,Andre Zinch,Arsenal,DEF
-41,Raheem Silva,Arsenal,DEF
-42,Alexis Smith,Arsenal,DEF
-43,Leo Hartley,Arsenal,DEF
-44,Raheem Martel,Arsenal,DEF
-45,Virgil Napier,Arsenal,MID
-46,Bukayo Zinch,Arsenal,MID
-47,Kai Grealish,Arsenal,MID
-48,Virgil Vance,Arsenal,MID
-49,Andre Ridley,Arsenal,MID
-50,Callum Diaz,Arsenal,MID
-51,Andre Odell,Arsenal,FWD
-52,Callum Jones,Arsenal,FWD
-53,Kevin Gordon,Arsenal,FWD
-54,Timo Maddison,Arsenal,FWD
-55,Kai Nolan,Tottenham Hotspur,GK
-56,Bukayo Mount,Tottenham Hotspur,GK
-57,Callum Langford,Tottenham Hotspur,DEF
-58,Leo Whitfield,Tottenham Hotspur,DEF
-59,Jarrod Ridley,Tottenham Hotspur,DEF
-60,Yves Trippier,Tottenham Hotspur,DEF
-61,Alexis Sancho,Tottenham Hotspur,DEF
-62,Aaron Beaumont,Tottenham Hotspur,DEF
-63,Virgil Zinch,Tottenham Hotspur,MID
-64,Jadon Gordon,Tottenham Hotspur,MID
-65,Trent Gordon,Tottenham Hotspur,MID
-66,Jack Trippier,Tottenham Hotspur,MID
-67,Reece Whitfield,Tottenham Hotspur,MID
-68,Leo Sancho,Tottenham Hotspur,MID
-69,Kevin Ellison,Tottenham Hotspur,FWD
-70,Erling Foden,Tottenham Hotspur,FWD
-71,Pascal Grealish,Tottenham Hotspur,FWD
-72,Heung-min Ashworth,Tottenham Hotspur,FWD
-73,Youri Silva,Chelsea,GK
-74,Harry Grealish,Chelsea,GK
-75,Bukayo Nolan,Chelsea,DEF
-76,Bernardo Ramsey,Chelsea,DEF
-77,Heung-min Walker,Chelsea,DEF
-78,Raheem Sterling,Chelsea,DEF
-79,Jarrod Napier,Chelsea,DEF
-80,Rodri Napier,Chelsea,DEF
-81,Jadon Preston,Chelsea,MID
-82,Alexis Walker,Chelsea,MID
-83,Jadon Toney,Chelsea,MID
-84,Pascal Baxter,Chelsea,MID
-85,Reece Toney,Chelsea,MID
-86,Alexis Vance,Chelsea,MID
-87,Declan Trippier,Chelsea,FWD
-88,Phil Ramsey,Chelsea,FWD
-89,Pascal Calvert,Chelsea,FWD
-90,Mohamed Gordon,Chelsea,FWD
-91,Oliver Odell,Manchester United,GK
-92,Pascal Preston,Manchester United,GK
-93,Bukayo Martel,Manchester United,DEF
-94,Timo Beaumont,Manchester United,DEF
-95,Ivan Silva,Manchester United,DEF
-96,Bernardo Wilson,Manchester United,DEF
-97,Callum Wilson,Manchester United,DEF
-98,Bruno Fernandes,Manchester United,DEF
-99,Oliver Ashworth,Manchester United,MID
-100,Mohamed Langford,Manchester United,MID
-101,Jarrod Foden,Manchester United,MID
-102,Reece Fernandes,Manchester United,MID
-103,Trent Robertson,Manchester United,MID
-104,Oliver Zinch,Manchester United,MID
-105,Bernardo Robertson,Manchester United,FWD
-106,Jadon Diaz,Manchester United,FWD
-107,Virgil Rowntree,Manchester United,FWD
-108,Erling Rowntree,Manchester United,FWD
-109,Marcus Diaz,Newcastle United,GK
-110,Rodri Mount,Newcastle United,GK
-111,Harry Zinch,Newcastle United,DEF
-112,Marcus Napier,Newcastle United,DEF
-113,Declan Napier,Newcastle United,DEF
-114,Phil Vance,Newcastle United,DEF
-115,Kevin Vance,Newcastle United,DEF
-116,Alexis Silva,Newcastle United,DEF
-117,Trent Martel,Newcastle United,MID
-118,Raheem Vance,Newcastle United,MID
-119,Bukayo Saka,Newcastle United,MID
-120,Yves Smith,Newcastle United,MID
-121,Raheem Whitfield,Newcastle United,MID
-122,Cole Beaumont,Newcastle United,MID
-123,Alexis Langford,Newcastle United,FWD
-124,Oliver Smith,Newcastle United,FWD
-125,Jarrod Silva,Newcastle United,FWD
-126,Rodri Maddison,Newcastle United,FWD
-127,Jack Maddison,Aston Villa,GK
-128,Mason Preston,Aston Villa,GK
-129,Phil Carrick,Aston Villa,DEF
-130,Virgil Sterling,Aston Villa,DEF
-131,Rodri Martel,Aston Villa,DEF
-132,Cole Zinch,Aston Villa,DEF
-133,Kai Ellison,Aston Villa,DEF
-134,Pascal Vance,Aston Villa,DEF
-135,Ollie Mahrez,Aston Villa,MID
-136,Bukayo Robertson,Aston Villa,MID
-137,Bukayo Isak,Aston Villa,MID
-138,James Diaz,Aston Villa,MID
-139,Heung-min Carrick,Aston Villa,MID
-140,Jadon Ridley,Aston Villa,MID
-141,Kai Baxter,Aston Villa,FWD
-142,Declan Saka,Aston Villa,FWD
-143,Emile Grealish,Aston Villa,FWD
-144,Dominic Wilson,Aston Villa,FWD
-145,Declan Ellison,Brighton,GK
-146,Leo Nolan,Brighton,GK
-147,Kevin Ashworth,Brighton,DEF
-148,Jadon Smith,Brighton,DEF
-149,Pascal Gordon,Brighton,DEF
-150,Callum Walker,Brighton,DEF
-151,Emile Mahrez,Brighton,DEF
-152,Jarrod Nolan,Brighton,DEF
-153,Diego Sancho,Brighton,MID
-154,Mohamed Wilson,Brighton,MID
-155,Reece Zinch,Brighton,MID
-156,Virgil Mount,Brighton,MID
-157,Alexis Beaumont,Brighton,MID
-158,Declan Ramsey,Brighton,MID
-159,Marcus Foden,Brighton,FWD
-160,Bukayo Trippier,Brighton,FWD
-161,Dominic Foden,Brighton,FWD
-162,Heung-min Jones,Brighton,FWD
-163,Andre Trippier,West Ham United,GK
-164,Callum Ramsey,West Ham United,GK
-165,Heung-min Foden,West Ham United,DEF
-166,Erling Maddison,West Ham United,DEF
-167,Heung-min Hartley,West Ham United,DEF
-168,Andre Beaumont,West Ham United,DEF
-169,Marcus Ashworth,West Ham United,DEF
-170,Timo Grealish,West Ham United,DEF
-171,James Calvert,West Ham United,MID
-172,Reece Silva,West Ham United,MID
-173,Ollie Silva,West Ham United,MID
-174,Raheem Smith,West Ham United,MID
-175,Alexis Foden,West Ham United,MID
-176,Jarrod Gordon,West Ham United,MID
-177,Dominic Diaz,West Ham United,FWD
-178,Cole Preston,West Ham United,FWD
-179,Bukayo Silva,West Ham United,FWD
-180,Pierre Trippier,West Ham United,FWD
-181,Virgil Mahrez,Everton,GK
-182,Bukayo Langford,Everton,GK
-183,Jack Ridley,Everton,DEF
-184,Oliver Toney,Everton,DEF
-185,Ivan Baxter,Everton,DEF
-186,Yves Napier,Everton,DEF
-187,Diego Wilson,Everton,DEF
-188,Pascal Nolan,Everton,DEF
-189,Bukayo Walker,Everton,MID
-190,Bukayo Calvert,Everton,MID
-191,Pierre Robertson,Everton,MID
-192,Rodri Ridley,Everton,MID
-193,Ivan Sancho,Everton,MID
-194,Declan Ashby,Everton,MID
-195,Erling Beaumont,Everton,FWD
-196,Kevin Isak,Everton,FWD
-197,Pierre Sterling,Everton,FWD
-198,Virgil Gordon,Everton,FWD
-199,Andre Ramsey,Wolverhampton Wanderers,GK
-200,Cole Wilson,Wolverhampton Wanderers,GK
-201,Pierre Nolan,Wolverhampton Wanderers,DEF
-202,Reece Robertson,Wolverhampton Wanderers,DEF
-203,Andre Maddison,Wolverhampton Wanderers,DEF
-204,Emile Saka,Wolverhampton Wanderers,DEF
-205,Timo Hartley,Wolverhampton Wanderers,DEF
-206,Raheem Preston,Wolverhampton Wanderers,DEF
-207,Virgil Grealish,Wolverhampton Wanderers,MID
-208,Rodri Ashworth,Wolverhampton Wanderers,MID
-209,Pierre Ramsey,Wolverhampton Wanderers,MID
-210,Cole Rowntree,Wolverhampton Wanderers,MID
-211,Mason Beaumont,Wolverhampton Wanderers,MID
-212,Andre Fernandes,Wolverhampton Wanderers,MID
-213,Aaron Ramsey,Wolverhampton Wanderers,FWD
-214,Bernardo Isak,Wolverhampton Wanderers,FWD
-215,Jack Hartley,Wolverhampton Wanderers,FWD
-216,Diego Vance,Wolverhampton Wanderers,FWD
-70,Erling Foden,Manchester City,FWD
+1,Marcus Langford,Manchester City,GK
+2,Bruno Ellison,Manchester City,GK
+3,Ivan Wilson,Manchester City,DEF
+4,Aaron Sterling,Manchester City,DEF
+5,Jack Walker,Manchester City,DEF
+6,Kevin Calvert,Manchester City,DEF
+7,Timo Diaz,Manchester City,DEF
+8,Yves Sterling,Manchester City,DEF
+9,Bernardo Robertson,Manchester City,MID
+10,Marcus Whitfield,Manchester City,MID
+11,Timo Fernandes,Manchester City,MID
+12,Trent Ellison,Manchester City,MID
+13,Mohamed Ridley,Manchester City,MID
+14,Jadon Whitfield,Manchester City,MID
+15,Andre Toney,Manchester City,FWD
+16,Dominic Robertson,Manchester City,FWD
+17,Andre Jones,Manchester City,FWD
+18,James Napier,Manchester City,FWD
+19,Aaron Napier,Liverpool,GK
+20,Declan Robertson,Liverpool,GK
+21,Dominic Zinch,Liverpool,DEF
+22,Mason Ashworth,Liverpool,DEF
+23,Ollie Vance,Liverpool,DEF
+24,Timo Zinch,Liverpool,DEF
+25,Phil Fernandes,Liverpool,DEF
+26,Emile Baxter,Liverpool,DEF
+27,Jadon Carrick,Liverpool,MID
+28,Bruno Langford,Liverpool,MID
+29,Erling Ellison,Liverpool,MID
+30,James Carrick,Liverpool,MID
+31,Virgil Maddison,Liverpool,MID
+32,Jadon Vance,Liverpool,MID
+33,Raheem Beaumont,Liverpool,FWD
+34,Declan Silva,Liverpool,FWD
+35,Pascal Langford,Liverpool,FWD
+36,Youri Hartley,Liverpool,FWD
+37,Reece Hartley,Arsenal,GK
+38,Harry Baxter,Arsenal,GK
+39,James Foden,Arsenal,DEF
+40,Bukayo Ramsey,Arsenal,DEF
+41,Declan Jones,Arsenal,DEF
+42,Declan Napier,Arsenal,DEF
+43,Trent Nolan,Arsenal,DEF
+44,Riyad Mahrez,Arsenal,DEF
+45,Raheem Nolan,Arsenal,MID
+46,Erling Ridley,Arsenal,MID
+47,Andre Beaumont,Arsenal,MID
+48,Jack Nolan,Arsenal,MID
+49,Kai Wilson,Arsenal,MID
+50,Oliver Foden,Arsenal,MID
+51,Youri Maddison,Arsenal,FWD
+52,James Martel,Arsenal,FWD
+53,Erling Fernandes,Arsenal,FWD
+54,Reece Maddison,Arsenal,FWD
+55,Jack Ridley,Tottenham Hotspur,GK
+56,Kai Ashby,Tottenham Hotspur,GK
+57,Cole Walker,Tottenham Hotspur,DEF
+58,Mohamed Mahrez,Tottenham Hotspur,DEF
+59,Yves Baxter,Tottenham Hotspur,DEF
+60,Pascal Hartley,Tottenham Hotspur,DEF
+61,Kai Trippier,Tottenham Hotspur,DEF
+62,Bruno Ridley,Tottenham Hotspur,DEF
+63,Jarrod Smith,Tottenham Hotspur,MID
+64,Ivan Grealish,Tottenham Hotspur,MID
+65,Bruno Fernandes,Tottenham Hotspur,MID
+66,Kai Martel,Tottenham Hotspur,MID
+67,Phil Whitfield,Tottenham Hotspur,MID
+68,Diego Martel,Tottenham Hotspur,MID
+69,Diego Calvert,Tottenham Hotspur,FWD
+70,Aaron Fernandes,Tottenham Hotspur,FWD
+71,Bruno Preston,Tottenham Hotspur,FWD
+72,Kai Beaumont,Tottenham Hotspur,FWD
+73,Heung-min Ridley,Chelsea,GK
+74,Cole Ashworth,Chelsea,GK
+75,Youri Sancho,Chelsea,DEF
+76,Ivan Ashworth,Chelsea,DEF
+77,Rodri Robertson,Chelsea,DEF
+78,Youri Ramsey,Chelsea,DEF
+79,Ivan Saka,Chelsea,DEF
+80,Rodri Baxter,Chelsea,DEF
+81,Phil Smith,Chelsea,MID
+82,Riyad Gordon,Chelsea,MID
+83,Trent Wilson,Chelsea,MID
+84,Pierre Beaumont,Chelsea,MID
+85,Bruno Sterling,Chelsea,MID
+86,Bruno Trippier,Chelsea,MID
+87,Riyad Foden,Chelsea,FWD
+88,Rodri Grealish,Chelsea,FWD
+89,Rodri Toney,Chelsea,FWD
+90,Rodri Silva,Chelsea,FWD
+91,Harry Mount,Manchester United,GK
+92,Trent Robertson,Manchester United,GK
+93,Mohamed Fernandes,Manchester United,DEF
+94,Kevin Sancho,Manchester United,DEF
+95,Emile Gordon,Manchester United,DEF
+96,Mohamed Walker,Manchester United,DEF
+97,Kai Sancho,Manchester United,DEF
+98,Callum Sterling,Manchester United,DEF
+99,Reece Jones,Manchester United,MID
+100,Jarrod Gordon,Manchester United,MID
+101,Leo Langford,Manchester United,MID
+102,Ollie Diaz,Manchester United,MID
+103,Bernardo Grealish,Manchester United,MID
+104,Rodri Ashby,Manchester United,MID
+105,Timo Whitfield,Manchester United,FWD
+106,Alexis Langford,Manchester United,FWD
+107,Mohamed Zinch,Manchester United,FWD
+108,Kai Odell,Manchester United,FWD
+109,Alexis Ridley,Newcastle United,GK
+110,Emile Mahrez,Newcastle United,GK
+111,Diego Ashworth,Newcastle United,DEF
+112,Pascal Whitfield,Newcastle United,DEF
+113,Mohamed Maddison,Newcastle United,DEF
+114,Kevin Mount,Newcastle United,DEF
+115,Aaron Odell,Newcastle United,DEF
+116,James Trippier,Newcastle United,DEF
+117,Heung-min Beaumont,Newcastle United,MID
+118,Ollie Zinch,Newcastle United,MID
+119,Pierre Martel,Newcastle United,MID
+120,Ivan Martel,Newcastle United,MID
+121,Erling Ramsey,Newcastle United,MID
+122,Jadon Smith,Newcastle United,MID
+123,Cole Robertson,Newcastle United,FWD
+124,Heung-min Sterling,Newcastle United,FWD
+125,Timo Rowntree,Newcastle United,FWD
+126,Timo Ramsey,Newcastle United,FWD
+127,Bukayo Ridley,Aston Villa,GK
+128,Emile Martel,Aston Villa,GK
+129,Phil Langford,Aston Villa,DEF
+130,Ivan Ramsey,Aston Villa,DEF
+131,Trent Gordon,Aston Villa,DEF
+132,Jarrod Mount,Aston Villa,DEF
+133,Reece Sancho,Aston Villa,DEF
+134,Ollie Calvert,Aston Villa,DEF
+135,Oliver Mahrez,Aston Villa,MID
+136,Bernardo Gordon,Aston Villa,MID
+137,Virgil Ashby,Aston Villa,MID
+138,Raheem Zinch,Aston Villa,MID
+139,Kai Ellison,Aston Villa,MID
+140,Rodri Mount,Aston Villa,MID
+141,Bukayo Napier,Aston Villa,FWD
+142,Kevin Isak,Aston Villa,FWD
+143,Trent Ramsey,Aston Villa,FWD
+144,Heung-min Diaz,Aston Villa,FWD
+145,Jack Toney,Brighton,GK
+146,Jadon Sterling,Brighton,GK
+147,Dominic Beaumont,Brighton,DEF
+148,James Mahrez,Brighton,DEF
+149,Declan Carrick,Brighton,DEF
+150,Leo Sancho,Brighton,DEF
+151,Kai Maddison,Brighton,DEF
+152,Bernardo Mahrez,Brighton,DEF
+153,Kevin Wilson,Brighton,MID
+154,Oliver Toney,Brighton,MID
+155,Diego Maddison,Brighton,MID
+156,Raheem Diaz,Brighton,MID
+157,Bukayo Toney,Brighton,MID
+158,Jadon Isak,Brighton,MID
+159,Bernardo Zinch,Brighton,FWD
+160,Heung-min Baxter,Brighton,FWD
+161,Mason Jones,Brighton,FWD
+162,Riyad Walker,Brighton,FWD
+163,Andre Langford,West Ham United,GK
+164,Raheem Odell,West Ham United,GK
+165,Youri Toney,West Ham United,DEF
+166,Kevin Vance,West Ham United,DEF
+167,Leo Martel,West Ham United,DEF
+168,James Rowntree,West Ham United,DEF
+169,Pascal Grealish,West Ham United,DEF
+170,Heung-min Langford,West Ham United,DEF
+171,Raheem Grealish,West Ham United,MID
+172,Leo Robertson,West Ham United,MID
+173,Mohamed Saka,West Ham United,MID
+174,Emile Fernandes,West Ham United,MID
+175,Pierre Smith,West Ham United,MID
+176,Trent Sancho,West Ham United,MID
+177,Pierre Wilson,West Ham United,FWD
+178,Yves Napier,West Ham United,FWD
+179,James Wilson,West Ham United,FWD
+180,Yves Maddison,West Ham United,FWD
+181,Kai Sterling,Everton,GK
+182,Jadon Silva,Everton,GK
+183,Bukayo Saka,Everton,DEF
+184,Virgil Silva,Everton,DEF
+185,Declan Fernandes,Everton,DEF
+186,Ollie Odell,Everton,DEF
+187,Timo Napier,Everton,DEF
+188,Pierre Preston,Everton,DEF
+189,Erling Martel,Everton,MID
+190,Riyad Jones,Everton,MID
+191,Bernardo Hartley,Everton,MID
+192,Ollie Sterling,Everton,MID
+193,Jadon Martel,Everton,MID
+194,Callum Maddison,Everton,MID
+195,Bernardo Ridley,Everton,FWD
+196,Virgil Foden,Everton,FWD
+197,Cole Gordon,Everton,FWD
+198,Aaron Trippier,Everton,FWD
+199,Bukayo Isak,Wolverhampton Wanderers,GK
+200,Kevin Smith,Wolverhampton Wanderers,GK
+201,Callum Foden,Wolverhampton Wanderers,DEF
+202,Harry Beaumont,Wolverhampton Wanderers,DEF
+203,Alexis Mahrez,Wolverhampton Wanderers,DEF
+204,Raheem Langford,Wolverhampton Wanderers,DEF
+205,Heung-min Fernandes,Wolverhampton Wanderers,DEF
+206,Jarrod Napier,Wolverhampton Wanderers,DEF
+207,Declan Odell,Wolverhampton Wanderers,MID
+208,Marcus Jones,Wolverhampton Wanderers,MID
+209,Mohamed Isak,Wolverhampton Wanderers,MID
+210,Bruno Ramsey,Wolverhampton Wanderers,MID
+211,Cole Ridley,Wolverhampton Wanderers,MID
+212,Dominic Saka,Wolverhampton Wanderers,MID
+213,Jadon Ramsey,Wolverhampton Wanderers,FWD
+214,Bruno Martel,Wolverhampton Wanderers,FWD
+215,Emile Jones,Wolverhampton Wanderers,FWD
+216,Erling Maddison,Wolverhampton Wanderers,FWD
+160,Heung-min Baxter,Manchester City,FWD
