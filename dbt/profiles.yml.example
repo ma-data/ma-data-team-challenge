@@ -1,0 +1,9 @@
+# Copy this file to `profiles.yml` (same folder) and run dbt with `--profiles-dir .`
+# The `path` is relative to where you run dbt from (the dbt/ folder here).
+soccer_challenge:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../warehouse.duckdb
+      threads: 4

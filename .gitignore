@@ -1,0 +1,25 @@
+# --- PRIVATE evaluator material: NEVER distribute to candidates ---
+evaluator/
+
+# --- Python ---
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# --- DuckDB warehouse (candidates generate this locally) ---
+*.duckdb
+*.duckdb.wal
+warehouse.duckdb*
+
+# --- dbt build artifacts ---
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+logs/
+
+# --- local dbt profile (candidates copy from profiles.yml.example) ---
+dbt/profiles.yml
+.env
+.DS_Store
