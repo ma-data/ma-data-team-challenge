@@ -52,9 +52,11 @@ first answer was wrong or misleading. That reflection tells us a lot.
 
 ## Submitting
 
-> _[To be finalized by the hiring team]_ Use this repository as a **template**, build your solution in
-> your own copy, and reply to our email with a link to your repo (plus your `ANSWERS.md`). If your
-> repo is private, share access with the contact in our email.
+1. Click **"Use this template" → Create a new repository** (not *Fork*).
+2. Set your new repository to **Private**.
+3. Build your solution and commit your work as you go.
+4. Add **`ma-marcio`** as a collaborator — your repo's **Settings → Collaborators → Add people** (read access is enough).
+5. Submit your repository link (and your `ANSWERS.md`) via this form: **[submission form — link added shortly]**
 
 ## What we value
 
