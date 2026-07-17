@@ -54,7 +54,7 @@ Your repository should contain:
    found in the data, and what you'd do with more time. The more clearly it shows how your thinking
    was structured, the better.
 
-When you're finished, submit your repository link via this form: **[submission form — link added shortly]**
+When you're finished, submit your repository link via this form: **[Submissions Form](https://docs.google.com/forms/d/e/1FAIpQLSeS0ipFr9iifjsw69FolqnDYZNVxgIzV7YtRRQmfQsvYpbMgg/viewform?usp=publish-editor)**
 
 ## What we value
 
